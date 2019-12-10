@@ -1,6 +1,7 @@
 def func():
     print('het')
     print('h')
+    print("new print")
 
 
 def func2():
